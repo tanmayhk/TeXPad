@@ -1,0 +1,17 @@
+﻿Numpad0::Send " "
+Numpad1::Send "\le"
+Numpad2::Send "\ge"
+Numpad3::Send "\hdots"
+Numpad4::Send "{+}"
+Numpad5::Send "\cdot"
+Numpad6::Send "-"
+Numpad7::Send "\sqrt{{}{}}{Left}"
+Numpad8::Send "$$"
+Numpad9::Send "\frac{{}{}}{{}{}}{Left}{Left}{Left}"
+NumpadDot::Send "_{{}{}}{Left}"
+NumLock::Send "{^}{{}{}}{Left}"
+NumpadDiv::Send "$"
+NumpadMult::Send "\textrm{{}{}}{Left}"
+NumpadAdd::Send "="
+NumpadSub::Backspace
+Shift & 4::return
