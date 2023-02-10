@@ -10,7 +10,7 @@ In the diagram above, 'T' denotes the text function \textrm, and the rest are th
 
 ## Installation
 The first, most important step is to **install AutoHotKey**. To do so, visit the [AutoHotKey main page](https://www.autohotkey.com/) and download the relevant version.
-Secondly, run the script stored in this repository!
+Secondly, run the script `latex.ahk` stored in this repository!
 
 ## Keys
 Currently, stickers are probably the easiest way to change the keycaps on your numpad to fit TeXPad. However, hopefullly there will be STL files for keycaps in the near future!
